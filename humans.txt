@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Divakar Reddy     divakar.gnit@gmail.com   @divakarrc
 
 # THANKS
 
